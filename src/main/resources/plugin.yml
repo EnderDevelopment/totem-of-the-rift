@@ -1,0 +1,10 @@
+name: TotemOfUndying
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+author: EnderDevelopment
+description: A special Totem of Undying with unique effects
+api-version: "1.21"
+commands:
+  give_totem:
+    description: Gives the player a Totem of Undying
+    usage: /give_totem
